@@ -3,6 +3,8 @@
 </p>
 
 https://www.5axxw.com/wiki/content/l4gugh
+<img src="_git%20assets/KLik2021-09-04_11-32-25.jpg" align="center"/>
+
 
 
 > KLiK is a PHP based Information Pool System (or simply a Social Media Website), consisting of a complete Login/Registration system, User Profile system, Chat room, Forum system and Blog/Polls/Event Management System.
